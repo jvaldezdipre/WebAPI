@@ -1,0 +1,16 @@
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\bin\Debug\netcoreapp2.2\BestTeamsApi.deps.json
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\bin\Debug\netcoreapp2.2\BestTeamsApi.runtimeconfig.json
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\bin\Debug\netcoreapp2.2\BestTeamsApi.runtimeconfig.dev.json
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\bin\Debug\netcoreapp2.2\BestTeamsApi.dll
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\bin\Debug\netcoreapp2.2\BestTeamsApi.pdb
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\obj\Debug\netcoreapp2.2\BestTeamsApi.RazorAssemblyInfo.cache
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\obj\Debug\netcoreapp2.2\BestTeamsApi.RazorAssemblyInfo.cs
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\obj\Debug\netcoreapp2.2\BestTeamsApi.AssemblyInfoInputs.cache
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\obj\Debug\netcoreapp2.2\BestTeamsApi.AssemblyInfo.cs
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\obj\Debug\netcoreapp2.2\BestTeamsApi.RazorTargetAssemblyInfo.cache
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\obj\Debug\netcoreapp2.2\BestTeamsApi.dll
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\obj\Debug\netcoreapp2.2\BestTeamsApi.pdb
+C:\Users\Jeffv\source\repos\BestTeamsApi\BestTeamsApi\obj\Debug\netcoreapp2.2\BestTeamsApi.csprojAssemblyReference.cache
